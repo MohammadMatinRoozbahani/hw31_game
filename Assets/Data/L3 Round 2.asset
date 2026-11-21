@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38182a64dc4cfe3896010fce52c1b40f, type: 3}
+  m_Name: "L3 Round 2"
+  m_EditorClassIdentifier: 
+  kind: 0
+  chicken: {fileID: 100006, guid: cb5d113571d0a87f66f6e2cf07f96584, type: 3}
+  rock: {fileID: 0}
+  count: 10
+  speed: 5.08
+  eggDelay: 3.18
+  eggSpeed: 5.55
+  gap: 0.082
+  diveEvery: 2
+  rockHp: 8
+  slots:
+  - {x: -0.58, y: 1.14}
+  - {x: 0.58, y: 1.14}
+  - {x: -1.16, y: 1.87}
+  - {x: 0, y: 1.88}
+  - {x: 1.16, y: 1.87}
+  - {x: -1.74, y: 2.55}
+  - {x: -0.58, y: 2.6}
+  - {x: 0.58, y: 2.6}
+  - {x: 1.74, y: 2.55}
+  - {x: -1.12, y: 3.3}
+  path:
+  - {x: 0.65, y: 6.75}
+  - {x: -3.9, y: 5.05}
+  - {x: 3.82, y: 3.12}

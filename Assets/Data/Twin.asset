@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ce8ba1206443f591006d5b9b8a6e961, type: 3}
+  m_Name: Twin
+  m_EditorClassIdentifier:
+  weaponName: Twin
+  icon: {fileID: 21300000, guid: e2f17d0abbe6037cd4137cbb570a9a0c, type: 3}
+  bullet: {fileID: 100006, guid: 6d1525392abcb155555f8ac95ca12e67, type: 3}
+  damage: 2
+  speed: 17
+  delay: 0.173
+  barrels:
+  - {x: -0.21, y: 0.34}
+  - {x: 0.21, y: 0.34}
+  angles:
+  - 0
+  - 0

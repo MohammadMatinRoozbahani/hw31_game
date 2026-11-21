@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38182a64dc4cfe3896010fce52c1b40f, type: 3}
+  m_Name: "L1 Round 4"
+  m_EditorClassIdentifier: 
+  kind: 0
+  chicken: {fileID: 100006, guid: 158270fd9b01fef1df3d63fbbe641abb, type: 3}
+  rock: {fileID: 0}
+  count: 8
+  speed: 3.35
+  eggDelay: 6.29
+  eggSpeed: 3.38
+  gap: 0.12
+  diveEvery: 4
+  rockHp: 4
+  slots:
+  - {x: -2.7, y: 2.97}
+  - {x: -0.9, y: 2.97}
+  - {x: 0.9, y: 2.97}
+  - {x: 2.7, y: 2.97}
+  - {x: -2.7, y: 1.94}
+  - {x: -0.9, y: 1.94}
+  - {x: 0.9, y: 1.94}
+  - {x: 2.7, y: 1.94}
+  path:
+  - {x: 2.85, y: 6.45}
+  - {x: 4.45, y: 4.82}
+  - {x: 1.5, y: 3.5}

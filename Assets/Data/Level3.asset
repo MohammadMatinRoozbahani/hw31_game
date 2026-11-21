@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a37f851444779c8902ea13f45b72b4, type: 3}
+  m_Name: "Level3"
+  m_EditorClassIdentifier: 
+  index: 3
+  scene: Level3
+  theme: "Deep Galaxy"
+  backdrop: {fileID: 21300000, guid: c0d0bc45fd4ab88b5ed17f7c60a9d6e7, type: 3}
+  music: {fileID: 8300000, guid: 203f598073e91dec500c8a8fa75c4cc1, type: 3}
+  waves:
+  - {fileID: 11400000, guid: 666a1f0bc95f54f10d4fbc4ade6fb241, type: 2}
+  - {fileID: 11400000, guid: c64660d89ab228fa16b5e917d11ec1a9, type: 2}
+  - {fileID: 11400000, guid: 421a9e491bd81b1fe2fc0aca4dd7b098, type: 2}
+  - {fileID: 11400000, guid: 6552cc82121ce4d0caae54fa360335d3, type: 2}
+  - {fileID: 11400000, guid: 2319e9e9e0d167fbaad058c8ff3ca6b8, type: 2}
+  - {fileID: 11400000, guid: abd80b1f83ac4d1eeb1fda3d9cf1c5a7, type: 2}
+  - {fileID: 11400000, guid: d8c45cdca7c155343ca1f0aee63d143a, type: 2}
+  - {fileID: 11400000, guid: c087bf4421a42b55fc571af49d9b0240, type: 2}
+  - {fileID: 11400000, guid: 3b70332cb7ab86f5efac1f4512798182, type: 2}
+  - {fileID: 11400000, guid: e1323297ef1d1b8381da29e298c11019, type: 2}
+  boss: {fileID: 100006, guid: c99d44b51a768315439af5e601ed487b, type: 3}

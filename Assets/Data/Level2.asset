@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a37f851444779c8902ea13f45b72b4, type: 3}
+  m_Name: "Level2"
+  m_EditorClassIdentifier: 
+  index: 2
+  scene: Level2
+  theme: "Jupiter Belt"
+  backdrop: {fileID: 21300000, guid: 1176df0de107f0365f1849cafe5374c7, type: 3}
+  music: {fileID: 8300000, guid: eb5f5b88d78892fb71106dc4f19c41fe, type: 3}
+  waves:
+  - {fileID: 11400000, guid: cb7c634b6448d82c74d92ef43cc97996, type: 2}
+  - {fileID: 11400000, guid: bf23aaec6ffd2af5d886626e47c960f4, type: 2}
+  - {fileID: 11400000, guid: 2f65c944c13be81433ac07c58a1faa85, type: 2}
+  - {fileID: 11400000, guid: 082a70b4d7d2ec8f275abafc887794fd, type: 2}
+  - {fileID: 11400000, guid: e23c0c5e81723235efea1fe46350f9f2, type: 2}
+  - {fileID: 11400000, guid: 960e37bfec879afbd75296e08c73b80d, type: 2}
+  - {fileID: 11400000, guid: ebb01c14d00b3a76c542a79df1680fae, type: 2}
+  boss: {fileID: 100006, guid: f6bdc2dc7357100c477302e5335f6ff1, type: 3}
